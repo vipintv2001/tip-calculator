@@ -55,3 +55,10 @@ h2 {
   margin-top: 20px;
   text-align: center;
 }
+
+@media (max-width: 480px) {
+  .calculator {
+  width: 300px;
+  max-width: 400px;
+}
+}
